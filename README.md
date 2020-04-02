@@ -1,0 +1,1 @@
+Eslint is a tool that is used to identify and report your patterns in javascript code including errors,code formatting issues and even indentation.
